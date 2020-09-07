@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: PHP > all
+- 🌱 I’m currently learning typescript
+
+[![Ricardo Souza](https://github-readme-stats.vercel.app/api?username=riicksouzaa&hide=contribs&theme=buefy&show_icons=true)](https://github.com/riicksouzaa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riicksouzaa&layout=compact&theme=buefy&show_icons=true)](https://github.com/riicksouzaa)
+
+
+
 <!--
 **Riicksouzaa/riicksouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
