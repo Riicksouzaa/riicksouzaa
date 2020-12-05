@@ -6,7 +6,7 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=riicksouzaa.visitor-badge)](https://github.com/riicksouzaa)
 
 
-[![Ricardo Souza](https://github-readme-stats.vercel.app/api?username=riicksouzaa&hide=contribs&theme=buefy&show_icons=true)](https://github.com/riicksouzaa)
+[![Ricardo Souza](https://github-readme-stats.vercel.app/api?username=riicksouzaa&hide=contribs&theme=buefy&show_icons=true)](https://github.com/riicksouzaa) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riicksouzaa&layout=compact&theme=buefy&show_icons=true)](https://github.com/riicksouzaa)
 
 
