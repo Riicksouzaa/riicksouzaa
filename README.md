@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ricardo, [See my website](https://codenome.com)
 
-## A Mobile dev 😄
+## A Mobile dev 📱
 
 - ⚡ Fun fact: PHP > all (i still think that? maybe not)
 - 🌱 I’m currently learning a lot of thing's (specially tests)
