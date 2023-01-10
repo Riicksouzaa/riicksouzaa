@@ -4,7 +4,6 @@
 
 - ⚡ Fun fact: PHP > all (i still think that? maybe not)
 - 🌱 I’m currently learning a lot of thing's (specially tests)
-- 🔭 I’m currently working on a mobile app that changes people lives and automate theirs credit card management.
 
 ### Stay in touch:
 [<img align="left" alt="Ricardo Souza Website" width="22px" src="https://icon-library.com/images/internet-globe-icon-png/internet-globe-icon-png-24.jpg" />][website]
